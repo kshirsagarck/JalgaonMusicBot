@@ -1,7 +1,7 @@
 {
     "name": "Jalgaon Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": https://telegra.ph/file/abad801ab0891cb353c18.jpg",
+    "logo":  "https://telegra.ph/file/abad801ab0891cb353c18.jpg",
     "keywords": [
     "python3",
     "telegram",
